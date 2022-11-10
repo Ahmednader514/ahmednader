@@ -710,7 +710,7 @@ nav span:nth-child(3) {
 
 .portfolio-section .container article:nth-child(1) {
     grid-area: one;
-    background-image: url("images/readiing.jpg");
+    background-image: url("images/readiing.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -752,7 +752,7 @@ nav span:nth-child(3) {
 
 .portfolio-section .container article:nth-child(7) {
     grid-area: seven;
-    background-image: url("images/bookmark.jpg");
+    background-image: url("images/bookmark.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
